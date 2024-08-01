@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "795089266069",
+    "project_id": "winesome-1004b",
+    "storage_bucket": "winesome-1004b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:795089266069:android:72d5e0a50329d87fcf429c",
+        "android_client_info": {
+          "package_name": "com.example.winsome"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAj-FftKXnDTeg4JEI-w-VcK-L35JfvLWY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
